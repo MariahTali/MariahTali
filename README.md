@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻 Cybersecurity & Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b><br>
-  - [Cloud SOC & Honeynet with Microsoft Azure](https://github.com/MariahTali/Azure-SOC-Honeynet)
+  - [Live Cloud SOC & Honeynet in Azure](https://github.com/MariahTali/Azure-SOC-Honeynet)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mariahtali/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mariahtali/azure-network-protocols)
 

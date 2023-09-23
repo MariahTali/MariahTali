@@ -1,6 +1,6 @@
 <h1> 👋🏼 Hi I'm Mariah, an <a href="https://www.linkedin.com/in/mariahtalicuran/">IT Professional</a> </h1>
 
-<h2>👩🏻‍💻 Information Technology Projects:</h2>
+<h2>👩🏻‍💻 Cybersecurity & Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b><br>
   - [Cloud SOC & Honeynet with Microsoft Azure](https://github.com/MariahTali/Azure-SOC-Honeynet)
